@@ -1,2 +1,5 @@
 # chrome-extension-tryout
-# chrome-extension-tryout
+
+## tutorial
+
+https://developer.chrome.com/extensions
